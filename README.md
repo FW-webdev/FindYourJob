@@ -6,4 +6,5 @@
 ## Используются технологии
 - HTML
 - CSS
+- SVG
 - Bootstrap v5.0
